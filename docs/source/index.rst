@@ -16,9 +16,13 @@ Feel free to reach out to me for more!
   :width: 30
   :target: https://twitter.com/oguzhanbegik
   
+  
+ 
 .. image:: gmail.png
   :width: 30
   :target: mailto:oguzhanbegik@gmail.com
+
+
 
 .. image:: linkedin.png
   :width: 30
