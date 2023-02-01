@@ -1,7 +1,11 @@
 Background
-===
+=====
 
-.. autosummary::
-   :toctree: generated
 
-   lumache
+Education
+------------
+
+
+Research Experience
+----------------
+
