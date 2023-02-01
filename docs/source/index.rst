@@ -15,12 +15,12 @@ Feel free to reach out to me for more!
 .. image:: twitter.png
   :width: 30
   :target: https://twitter.com/oguzhanbegik
- 
-..   image:: gmail.png
+
+     .. image:: gmail.png
   :width: 30
   :target: mailto:oguzhanbegik@gmail.com
 
-..   image:: linkedin.png
+     .. image:: linkedin.png
   :width: 30
   :target: https://www.linkedin.com/in/oguzhanbegik
 
