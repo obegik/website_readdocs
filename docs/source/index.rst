@@ -1,4 +1,3 @@
-:hidetoc: 1
 Welcome to my personal page!
 =========================================================
  .. image:: Linkedin.jpg
