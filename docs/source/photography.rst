@@ -5,9 +5,9 @@ Film Photography
 A little teaser from my film photography collection 
 
 
-Before Starting
+Still time
 ------------
-
-
-Tips
-----------------
+.. image:: photography/photo1.jpg
+  :width: 4500
+  :alt: Alternative text
+  :align: center
