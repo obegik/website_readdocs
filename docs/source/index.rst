@@ -32,3 +32,4 @@ Contents
 
    background
    protocols
+   photography
