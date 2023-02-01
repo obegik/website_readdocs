@@ -18,7 +18,8 @@ Linkedin :ref:`https://www.linkedin.com/in/oguzhanbegik/`.
 
 
 .. image:: twitter.png
-   :target: `https://twitter.com/oguzhanbegik`
+  :width: 30
+  :target: https://twitter.com/oguzhanbegik
   
    
 
