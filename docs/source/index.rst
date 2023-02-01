@@ -12,16 +12,17 @@ In this page, I aim to introduce myself and share my experience with other fello
 
 Feel free to reach out to me for more!
 
-Twitter :ref:`https://twitter.com/oguzhanbegik`.
-Gmail :ref:`oguzhanbegik@gmail.com`.
-Linkedin :ref:`https://www.linkedin.com/in/oguzhanbegik/`.
-
-
 .. image:: twitter.png
   :width: 30
   :target: https://twitter.com/oguzhanbegik
   
-   
+.. image:: gmail.png
+  :width: 30
+  :target: oguzhanbegik@gmail.com
+  
+.. image:: linkedin.png
+  :width: 30
+  :target: https://www.linkedin.com/in/oguzhanbegik
 
 Contents
 --------
