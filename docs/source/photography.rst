@@ -1,9 +1,8 @@
 
-Protocols
+Film Photography
 =====
 
-This page is a guide for RNA scientists! I have gathered all my knowledge on 
-RNA research to aid you in finding marvels in this RNA world! 
+A little teaser from my film photography collection 
 
 
 Before Starting
