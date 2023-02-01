@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Oguzhan Begik Website'
+copyright = '2023, Oguzhan Begik'
+author = 'Oguzhan Begik'
 
 release = '0.1'
 version = '0.1.0'
