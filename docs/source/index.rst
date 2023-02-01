@@ -12,15 +12,15 @@ In this page, I aim to introduce myself and share my experience with other fello
 
 Feel free to reach out to me for more!
 
-.. image:: twitter.png
+.. figure:: twitter.png
   :width: 30
   :target: https://twitter.com/oguzhanbegik
 
-     .. image:: gmail.png
+.. figure:: gmail.png
   :width: 30
   :target: mailto:oguzhanbegik@gmail.com
 
-     .. image:: linkedin.png
+.. figure:: linkedin.png
   :width: 30
   :target: https://www.linkedin.com/in/oguzhanbegik
 
