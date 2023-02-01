@@ -18,7 +18,7 @@ Feel free to reach out to me for more!
   
 .. image:: gmail.png
   :width: 30
-  :email:`oguzhanbegik@gmail.com`
+  :target:`oguzhanbegik@gmail.com`
 
   
 .. image:: linkedin.png
