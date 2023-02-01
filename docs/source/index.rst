@@ -1,12 +1,14 @@
 :hidetoc: 1
 Welcome to my personal page!
 =========================================================
+ .. image:: Linkedin.jpg
+  :width: 200
+  :alt: Alternative text
+  :align: right
 
 I am Oguzhan Begik. 
 
-.. image:: Linkedin.jpg
-  :width: 200
-  :alt: Alternative text
+
 
 In this page, I aim to introduce myself and share my experience with other fellow scientists!
 
