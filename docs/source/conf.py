@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Oguzhan Begik Website'
+project = 'Oguzhan Begik'
 copyright = '2023, Oguzhan Begik'
 author = 'Oguzhan Begik'
 
