@@ -10,6 +10,6 @@ A little teaser from my film photography collection
   :width: 700
   :alt: Alternative text
   :align: center
-  :alt: Still time
+
 
 "Still time"
