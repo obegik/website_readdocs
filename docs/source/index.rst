@@ -1,10 +1,13 @@
-Welcome to the RNA scientist's guide to the RNA world!
+Welcome to my personal page!
 =========================================================
 
-This page is a guide for RNA scientists! I have gathered all my knowledge on 
-RNA research to aid you in finding marvels in this RNA world! 
+I am Oguzhan Begik. 
 
-Before I begin, here is a background about myself: Oguzhan Begik
+.. image:: Linkedin.jpg
+  :width: 400
+  :alt: Alternative text
+
+
 
 
 
