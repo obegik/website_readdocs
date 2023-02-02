@@ -10,9 +10,7 @@ A little teaser from my film photography collection
   :alt: Alternative text
   :align: center
   
-  
-.. note::
-  "Still time", 
+.. admonition:: "Still time"
   Year: 2016
   Location: Ankara
   Machine: Zenit TTL
