@@ -11,12 +11,8 @@ A little teaser from my film photography collection
   :align: center
   
   
-  
-.. admonition:: Still time
-  Year
-  
-  
-.. admonition:: Still time
+ 
+.. admonition:: Still time...
      Year: 2016
      Location: Ankara
      Machine: Zenit TTL
