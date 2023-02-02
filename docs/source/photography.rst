@@ -11,7 +11,7 @@ A little teaser from my film photography collection
   :align: center
   
   
-.. admonition:: Still time
+.. admonition:: "Still time"
 
    Year: 2016
    Location: Ankara
@@ -26,12 +26,15 @@ A little teaser from my film photography collection
   :alt: Alternative text
   :align: center
 
-"The Fisherman", 
-Year: 2016
-Location: Ankara
-Machine: Zenit TTL
-Lens: Helios 58 mm, F2
-Film: Agfa Dia 100
+
+
+.. admonition:: "The Fisherman"
+
+  Year: 2016
+  Location: Ankara
+  Machine: Zenit TTL
+  Lens: Helios 58 mm, F2
+  Film: Agfa Dia 100
 
 
 .. image:: photography/photo3.jpg
@@ -39,10 +42,13 @@ Film: Agfa Dia 100
   :alt: Alternative text
   :align: center
 
-"Sailing in the ocean", 
-Year: 2017
-Location: Sydney
-Machine: Seagull
-Lens: Minolta MD13
-Film: Kodak Colorplus 200
+
+.. admonition:: "Sailing in the ocean",
+
+  Year: 2017
+  Location: Sydney
+  Machine: Seagull
+  Lens: Minolta MD13
+  Film: Kodak Colorplus 200
+ 
 
