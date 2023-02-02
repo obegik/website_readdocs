@@ -26,10 +26,6 @@ Feel free to reach out to me for more!
   :target: https://www.linkedin.com/in/oguzhanbegik
 
 
-<a class="twitter-timeline" data-width="1000" data-height="300" href="https://twitter.com/oguzhanbegik?ref_src=twsrc%5Etfw">Tweets by oguzhanbegik</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
 
 Contents
 --------
