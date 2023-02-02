@@ -10,6 +10,12 @@ A little teaser from my film photography collection
   :alt: Alternative text
   :align: center
   
+  
+  
+.. admonition:: Still time
+  Year
+  
+  
 .. admonition:: Still time
      Year: 2016
      Location: Ankara
