@@ -11,19 +11,14 @@ A little teaser from my film photography collection
   :align: center
   
   
-.. admonition:: And, by the way...
+.. admonition:: Still time
 
-   You can make up your own admonition too.
-   
-   
-   
+   Year: 2016
+   Location: Ankara
+   Machine: Zenit TTL
+   Lens: Helios 58 mm, F2
+   Film: Fuji C200
  
-.. admonition:: Still time...
-  Year: 2016
-Location: Ankara
-     Machine: Zenit TTL
-     Lens: Helios 58 mm, F2
-     Film: Fuji C200
 
 
 .. image:: photography/photo2.jpg
