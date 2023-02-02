@@ -12,12 +12,12 @@ A little teaser from my film photography collection
   
   
 .. note::
-"Still time", 
-Year: 2016
-Location: Ankara
-Machine: Zenit TTL
-Lens: Helios 58 mm, F2
-Film: Fuji C200
+  "Still time", 
+  Year: 2016
+  Location: Ankara
+  Machine: Zenit TTL
+  Lens: Helios 58 mm, F2
+  Film: Fuji C200
 
 
 
