@@ -13,10 +13,10 @@ A little teaser from my film photography collection
   
 .. admonition:: "Still time"
 
-   Year: 2016
-   Location: Ankara
-   Machine: Zenit TTL
-   Lens: Helios 58 mm, F2
+   Year: 2016,
+   Location: Ankara,
+   Machine: Zenit TTL,
+   Lens: Helios 58 mm - F2,
    Film: Fuji C200
  
 
@@ -30,12 +30,11 @@ A little teaser from my film photography collection
 
 .. admonition:: "The Fisherman"
 
-  Year: 2016
-  Location: Ankara
-  Machine: Zenit TTL
-  Lens: Helios 58 mm, F2
+  Year: 2016,
+  Location: Ankara,
+  Machine: Zenit TTL,
+  Lens: Helios 58 mm- F2,
   Film: Agfa Dia 100
-
 
 .. image:: photography/photo3.jpg
   :width: 500
@@ -45,10 +44,10 @@ A little teaser from my film photography collection
 
 .. admonition:: "Sailing in the ocean",
 
-  Year: 2017
-  Location: Sydney
-  Machine: Seagull
-  Lens: Minolta MD13
+  Year: 2017,
+  Location: Sydney,
+  Machine: Seagull,
+  Lens: Minolta MD13,
   Film: Kodak Colorplus 200
  
 
