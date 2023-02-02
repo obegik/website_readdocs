@@ -9,8 +9,7 @@ RNA scientist and enthusiast.
 
 
 
-`Amateur film photographer. <link URL>`_
-
+`Amateur film photographer. <https://oguzhanbegik.readthedocs.io/en/latest/photography.html>`_
 
 
 
