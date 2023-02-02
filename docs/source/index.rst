@@ -33,5 +33,5 @@ Contents
 .. toctree::
 
    background
-   protocols
+   science
    photography
