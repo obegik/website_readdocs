@@ -9,7 +9,9 @@ A little teaser from my film photography collection
   :width: 500
   :alt: Alternative text
   :align: center
-
+  
+  
+.. note::
 "Still time", 
 Year: 2016
 Location: Ankara
