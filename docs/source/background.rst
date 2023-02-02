@@ -19,9 +19,13 @@ PhD in Medicine at University of New South Wales (UNSW) / Sydney-Australia
 *01/2022*
 
 Thesis Title: “Characterizing the RNA modification and polyadenylation landscape at single molecule resolution using third-generation sequencing technologies”
+
 Awards:
+
 Garvan Institute of Medical Research Thesis Award 2022
+
 UNSW School of Clinical Medicine St Vincent’s Healthcare Clinical Campus HDR Thesis Award 2022
+
 RNA Society Eclipse Award for Innovation in High Throughput Biology Graduate student winner 2022
 
 
