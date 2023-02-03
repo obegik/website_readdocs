@@ -22,11 +22,11 @@ Thesis Title: “Characterizing the RNA modification and polyadenylation landsca
 
 Awards:
 
-*Garvan Institute of Medical Research Thesis Award 2022
+* Garvan Institute of Medical Research Thesis Award 2022
 
-*UNSW School of Clinical Medicine St Vincent’s Healthcare Clinical Campus HDR Thesis Award 2022
+* UNSW School of Clinical Medicine St Vincent’s Healthcare Clinical Campus HDR Thesis Award 2022
 
-*RNA Society Eclipse Award for Innovation in High Throughput Biology Graduate student winner 2022
+* RNA Society Eclipse Award for Innovation in High Throughput Biology Graduate student winner 2022
 
 
 MSc in Molecular Biology and Genetics at Middle East Technical University (METU) / Ankara-Turkey
